@@ -1,6 +1,5 @@
 <h1 align="center">Hi there
 <img src="Media\ASPikaDab.gif" height="40">  I'm Perumalla Dharan</h1>
-<img src="">
 <p float="left">
 
 <div align="center">
