@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Perumalla Dharan</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h1 align="center">Hi there👋, I'm Perumalla Dharan</h1>
+<p float="left">
+<img  src="media/hello.gif" width="250">
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+</p>
+<h3 align="center">I don't think we've met</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perumalladharan&label=Profile%20views&color=0e75b6&style=flat" alt="perumalladharan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dharan143" target="blank"><img src="https://img.shields.io/twitter/follow/dharan143?logo=twitter&style=for-the-badge" alt="dharan143" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Development**
+##  About Me <a href="[[[media/heart.gif](https://cdn.discordapp.com/emojis/707344671361335316.gif?size=64)](https://cdn.discordapp.com/emojis/707344671361335316.gif?size=64)](https://i.pinimg.com/originals/64/4b/88/644b88254ec38a97c422ce861ddcaea2.gif)" width="50px"> 
 
-- 👯 I’m looking to collaborate on **Java Fingerprint Scanner**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PerumallaDharan](https://github.com/PerumallaDharan)
-
-- 📫 How to reach me **opdharanff@gmail.com**
+- My name is **Perumalla Dharan**
+- I'm a student of **B.Tech Computer Science** in **India**
+- I am interested in **Web Development** , **Machine Learning** and **Artificial Intelligence**
+- **Fun fact:** ✌︎ 𝙿ᴀɪɴ ɪs ɪɴᴇᴠɪᴛᴀʙʟᴇ ʙᴜᴛ 𝚂ᴜғғᴇʀɪɴɢ ɪs ᴏᴘᴛɪᴏɴᴀʟ
+- Ask me about programming in general, I am always available to help and learn together.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
