@@ -1,7 +1,11 @@
-<h1 align="center">Hi there👋, I'm Perumalla Dharan</h1>
+<h1 align="center">Hi there
+<img src="Media\ASPikaDab.gif" height="40">  I'm Perumalla Dharan</h1>
+<img src="">
 <p float="left">
-<img  src="media/hello.gif" width="250">
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+<div align="center">
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="200">
+</div>
 </p>
 <h3 align="center">I don't think we've met</h3>
 
@@ -9,13 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/dharan143" target="blank"><img src="https://img.shields.io/twitter/follow/dharan143?logo=twitter&style=for-the-badge" alt="dharan143" /></a> </p>
 
-##  About Me <a href="[[[media/heart.gif](https://cdn.discordapp.com/emojis/707344671361335316.gif?size=64)](https://cdn.discordapp.com/emojis/707344671361335316.gif?size=64)](https://i.pinimg.com/originals/64/4b/88/644b88254ec38a97c422ce861ddcaea2.gif)" width="50px"> 
+##  About Me <img src="933818109511479346.gif" width="30"> 
 
 - My name is **Perumalla Dharan**
+<img src="Media\870667727151444068.gif" width="30">
 - I'm a student of **B.Tech Computer Science** in **India**
 - I am interested in **Web Development** , **Machine Learning** and **Artificial Intelligence**
 - **Fun fact:** ✌︎ 𝙿ᴀɪɴ ɪs ɪɴᴇᴠɪᴛᴀʙʟᴇ ʙᴜᴛ 𝚂ᴜғғᴇʀɪɴɢ ɪs ᴏᴘᴛɪᴏɴᴀʟ
 - Ask me about programming in general, I am always available to help and learn together.
+<img src="Media\981908669446889523.gif" width="30">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
