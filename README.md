@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/dharan143" target="blank"><img src="https://img.shields.io/twitter/follow/dharan143?logo=twitter&style=for-the-badge" alt="dharan143" /></a> </p>
 
-##  About Me <img src="933818109511479346.gif" width="30"> 
+##  About Me <img src="Media\933818109511479346.gif" width="30"> 
 
 - My name is **Perumalla Dharan**
 <img src="Media\870667727151444068.gif" width="30">
