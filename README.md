@@ -16,8 +16,8 @@
 
 - My name is **Perumalla Dharan** <img src="Media\870667727151444068.gif" width="30">
 - I'm a student of **B.Tech Computer Science** in **India**
-- I am interested in **Web Development** , **Machine Learning** and **Artificial Intelligence**
-- **Fun fact:** ✌︎ 𝙿ᴀɪɴ ɪs ɪɴᴇᴠɪᴛᴀʙʟᴇ ʙᴜᴛ 𝚂ᴜғғᴇʀɪɴɢ ɪs ᴏᴘᴛɪᴏɴᴀʟ
+- I am interested in  **Machine Learning** , **Artificial Intelligence** and **Web Development**
+- **HARD TRUTH:** ✌︎ 𝙿ᴀɪɴ ɪs ɪɴᴇᴠɪᴛᴀʙʟᴇ ʙᴜᴛ 𝚂ᴜғғᴇʀɪɴɢ ɪs ᴏᴘᴛɪᴏɴᴀʟ
 - Ask me about programming in general, I am always available to help and learn together. <img src="Media\981908669446889523.gif" width="30">
 
 <h3 align="left">Connect with me:</h3>
