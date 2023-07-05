@@ -46,7 +46,6 @@
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/dharan_3010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dharan_3010" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ap21110010201?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ap21110010201?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/dharan_1430/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dharan_1430/" height="30" width="40" /></a>
-<
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/opdharanff/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/opdharanff/practice" height="30" width="40" /></a>
 </p>
 <br>
