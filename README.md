@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते Namaste
+<h1 align="center">नमस्ते 
 <img src="Media\ASPikaDab.gif" height="40">  I'm Perumalla Dharan</h1>
 <p float="left">
 
@@ -13,8 +13,6 @@
 - My name is **Perumalla Dharan** <img src="Media\870667727151444068.gif" width="30">
 - I'm a student of **B.Tech Computer Science** in **India** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 - I am interested in  **Machine Learning** , **Artificial Intelligence**
-- **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | <br/>
-                   मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 2.47||**
 - Ask me about programming in general, I am always available to help and learn together. <img src="Media\981908669446889523.gif" width="30">
 <br><br>
 
@@ -27,13 +25,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PerumallaDharan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PerumallaDharan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PerumallaDharan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
 
-## <img src="Media\message.gif" width="30"> Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## <img src="Media\message.gif" width="30"> Quote
+**कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | <br/>
+  मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 2.47||** <br/> 
+  **अर्थात्** <br/>
+  कर्म करने मात्र में तुम्हारा अधिकार है| फल में कभी नहीं। <br/> तुम कर्मफल के हेतु वाले मत होना और अकर्म में भी तुम्हारी आसक्ति न हो।। <br/>
+  **Meaning** <br/>
+  Your right is for action alone, never for the results. Do not become the agent of the results of action. May you not have any inclination for inaction.
 
 <br>
 
