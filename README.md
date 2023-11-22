@@ -13,7 +13,8 @@
 - My name is **Perumalla Dharan** <img src="Media\870667727151444068.gif" width="30">
 - I'm a student of **B.Tech Computer Science** in **India** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 - I am interested in  **Machine Learning** , **Artificial Intelligence**
-- **HARD TRUTH :** ✌︎ 𝙿ᴀɪɴ ɪs ɪɴᴇᴠɪᴛᴀʙʟᴇ ʙᴜᴛ 𝚂ᴜғғᴇʀɪɴɢ ɪs ᴏᴘᴛɪᴏɴᴀʟ ✌︎
+- **HARD TRUTH :** कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 2.47||
 - Ask me about programming in general, I am always available to help and learn together. <img src="Media\981908669446889523.gif" width="30">
 <br><br>
 
