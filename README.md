@@ -33,7 +33,7 @@
 ## <img src ="Media\lightning.gif" width="10"> Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dharan143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dharan143" height="30" width="40" /></a>
+<a href="[https://twitter.com/https://twitter.com/dharan143](https://twitter.com/Dharan143)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dharan143" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/perumalla-dharan-481167208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/perumalla-dharan-481167208/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/dharan.perumalla.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dharan.perumalla.1" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/perumalladharan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/perumalladharan/" height="30" width="40" /></a>
